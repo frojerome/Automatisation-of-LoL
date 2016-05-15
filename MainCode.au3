@@ -41,7 +41,7 @@ WinWaitActive("LoL Patcher", "", 10)
 			Send(FileReadLine("Config.txt", 2))
 			Send("{ENTER}")
 		Else
-			MsgBox(0, "Error", "There is an Error !")
+			main()
 			Exit
 		EndIf
 Else
