@@ -39,10 +39,15 @@ Now just execute the ".exe" and enjoy the automatisation !
 --------------------------------------------------------------------------
 Release :
 0.0.1 : Creation of the Project
+
 0.0.2 : Creation & optimisation of the MainScript
+
 0.0.3 : Creation of an Settings Gui !
+
 0.0.4 : Error can be now detected !
+
 0.0.5 : Some other error can be now detected
+
 0.0.6 : Error of PVP.Net is done !
 --------------------------------------------------------------------------
 
